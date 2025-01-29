@@ -24,5 +24,5 @@ Aspiring AI & Data Science enthusiast with a background in Cloud Computing & Big
 - Blender, Maya
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn](linkedin.com/in/raghavendrakm08/)
-- Email: [Your Email](raghavendrakm08)
+- LinkedIn: [LinkedIn](linkedin.com/in/raghavendrakm08/)
+- Email: raghavendrakm08@gmail.com
