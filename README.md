@@ -20,8 +20,10 @@ Aspiring AI & Data Science enthusiast with a background in Cloud Computing & Big
 - Git, GitHub, CI/CD
 
 ### 🎨 Design & UI/UX
-- Figma, Canva, Photoshop
+- Figma, Canva,
 - Blender, Maya
+- Photoshop, Lightroom
+- Premier Pro, After Effects
 
 ## 📫 Let's Connect!
 - LinkedIn: [LinkedIn](linkedin.com/in/raghavendrakm08/)
