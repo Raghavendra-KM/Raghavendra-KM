@@ -26,5 +26,5 @@ Aspiring AI & Data Science enthusiast with a background in Cloud Computing & Big
 - Premier Pro, After Effects
 
 ## 📫 Let's Connect!
-- LinkedIn: [LinkedIn](linkedin.com/in/raghavendrakm08/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/raghavendrakm08)
 - Email: raghavendrakm08@gmail.com
