@@ -11,7 +11,7 @@ Aspiring AI & Data Science enthusiast with a background in Cloud Computing & Big
 
 ### 🧠 AI & Data Science
 - Python
-- TensorFlow, PyTorch, Scikit-Learn
+- TensorFlow, PyTorch
 - Pandas, NumPy, Matplotlib
 
 ### ☁️ Cloud & DevOps
