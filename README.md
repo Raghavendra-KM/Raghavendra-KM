@@ -17,7 +17,7 @@ Aspiring AI & Data Science enthusiast with a background in Cloud Computing & Big
 ### ☁️ Cloud & DevOps
 - AWS, Azure, Google Cloud
 - Docker, Kubernetes
-- Git, GitHub, CI/CD
+- Git, GitHub
 
 ### 🎨 Design & UI/UX
 - Figma, Canva,
